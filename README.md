@@ -1,0 +1,2 @@
+# SampleCoreMvc
+Core Mvc Template
