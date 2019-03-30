@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreTemplate.DAL\CoreTemplate.DAL.csproj" />
+    <ProjectReference Include="..\CoreTemplate.Entities\CoreTemplate.Entities.csproj" />
+    <ProjectReference Include="..\CoreTemplate.Utility\CoreTemplate.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
